@@ -5,7 +5,7 @@ share: true
 ---
 
 Hola! Bienvenid@ a mis notas compartidas.
-Ten en cuenta que están siendo actualizadas constantemente.
+Ten en cuenta que están siendo actualizadas constaentemente.
 Entra en alguna de las que están publicadas:
 
 - [[Deep Learning - Curso by Pepe Marqués|Deep Learning - Curso by Pepe Marqués]]
